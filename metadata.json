@@ -1,0 +1,6 @@
+{
+  "name": "AutoTriage AI - Enterprise Request Classifier & Architecture",
+  "description": "Enterprise request routing architecture with automated Gemini AI classification across HR, IT, Finance, and Operations with persistent storage, confidence scoring, and interactive architecture exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
